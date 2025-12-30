@@ -1,1 +1,2 @@
-# stack-visualizer
+# stack-visualizer 
+pop and push 
